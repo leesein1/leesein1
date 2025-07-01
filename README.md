@@ -6,7 +6,7 @@
 
 <!-- 자기소개 -->
 <p align="center">
-  👋 안녕하세요! 풀스택 개발자 <strong>이세인 (Sein)</strong>입니다.<br/>
+  👋 안녕하세요! 풀스택 개발자 <strong>이세인 (Sein-Lee)</strong>입니다.<br/>
   🚀 실용적인 프로젝트를 통해 성장하는 개발자입니다.
 </p>
 
