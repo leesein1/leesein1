@@ -1,7 +1,7 @@
-<!-- 타이틀 이미지 -->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<!-- SVG 애니메이션 배너 -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I'm%20Sein&text2=Building%20practical%20projects&width=800&height=200" alt="Sein's Banner"/>
+</p>
 
 <!-- 자기소개 -->
 <p align="center">
