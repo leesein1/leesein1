@@ -1,13 +1,13 @@
+<!-- 타이틀 이미지 -->
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
 <!-- 자기소개 -->
 <p align="center">
   👋 안녕하세요! 실용적인 서비스를 만들고 싶은 개발자 <strong>이세인(Sein)</strong>입니다.<br/>
   백엔드부터 프론트엔드까지, 유저에게 닿는 기술을 고민합니다.
 </p>
-
-<!-- 타이틀 이미지 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20👋%20I'm%20Sein&fontSize=40&fontAlignY=35" />
-</div>
 
 <!-- 기술 스택 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
