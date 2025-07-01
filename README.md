@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<!-- 스터디 레포 카드들 (2개 병렬) -->
+<!-- 스터디 레포 카드  -->
 <h3 align="center">📁 Study Repo 📁</h3>
 <p align="center">
   <a href="https://github.com/leesein1/cs-" target="_blank">
