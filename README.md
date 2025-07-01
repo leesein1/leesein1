@@ -40,6 +40,7 @@
 
 ![Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesein1&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesein1&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=leesein1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
