@@ -1,7 +1,7 @@
 <!-- SVG 애니메이션 배너 -->
 <p align="center">
   <img 
-    src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I'm%20Sein&text2=Building%20practical%20projects&fontWeight=900&fontSize=38&fontFamily=Impact&align=center&width=800&height=200" 
+    src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20I'm%20Sein&text2=Building%20practical%20projects&fontWeight=900&fontSize=38&fontFamily=Impact&align=center&width=800&height=150" 
     alt="Sein's Banner"
 />
 </p>
