@@ -7,7 +7,7 @@
 <!-- 자기소개 -->
 <p align="center">
   👋 안녕하세요! 풀스택 개발자 <strong>이세인 (Sein-Lee)</strong>입니다.<br/>
-  🚀 실용적인 프로젝트를 통해 성장하는 개발자입니다.
+  🚀 현재는 React와 TypeScript에 빠져 공부하고 있습니다!
 </p>
 
 <!-- 기술 스택 -->
@@ -51,6 +51,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=FaultMon&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/leesein1/x-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=x-clone&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  </a>
+</p>
+
 
 <!-- 스터디 레포 카드  -->
 <h3 align="center">📁 Study Repo 📁</h3>
