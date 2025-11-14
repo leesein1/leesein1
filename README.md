@@ -58,6 +58,13 @@
   </a>
 </p>
 
+<!-- 자동화 프로젝트 -->
+<h3 align="center">⚙ Automation ⚙</h3>
+<p align="center">
+  <a href="https://github.com/leesein1/Monthly_Excel" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=Monthly_Excel&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  </a>
+</p>
 
 <!-- 스터디 레포 카드  -->
 <h3 align="center">📁 Study Repo 📁</h3>
