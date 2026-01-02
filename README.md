@@ -1,15 +1,7 @@
-## Usage (GitHub Profile README)
-
 <p align="center">
-  <a href="https://github.com/leesein1/FaultMon">
-    <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/assets/cards/faultmon.svg" width="520" />
-  </a>
-</p>
-
-<img 
+  <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:6dd5fa&height=200&section=header&text=Sein's%20GitHub&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlign=62&descAlignY=60&fontColor=ffffff&descColor=ffffff"
   />
-
 </p>
 
 <!-- 자기소개 -->
@@ -45,45 +37,39 @@
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" />
 </div>
 
-<!-- 공부 중 -->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-</div>
+<h3 align="center">🚀 Projects</h3>
 
-<!-- 프로젝트 카드 -->
-<h3 align="center">🚀 Projects 🚀</h3>
 <p align="center">
-  <a href="https://github.com/leesein1/FaultMon" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=FaultMon&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  <a href="https://github.com/leesein1/FaultMon">
+    <img src="assets/cards/faultmon.svg" width="520"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/leesein1/x-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=x-clone&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  <a href="https://github.com/leesein1/x-clone">
+    <img src="assets/cards/x-clone.svg" width="520"/>
   </a>
 </p>
 
-<!-- 자동화 프로젝트 -->
-<h3 align="center">⚙ Automation ⚙</h3>
+<h3 align="center">⚙ Automation</h3>
+
 <p align="center">
-  <a href="https://github.com/leesein1/Monthly_Excel" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=Monthly_Excel&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  <a href="https://github.com/leesein1/Monthly_Excel">
+    <img src="assets/cards/monthly-excel.svg" width="520"/>
   </a>
 </p>
 
-<!-- 스터디 레포 카드  -->
-<h3 align="center">📁 Study Repo 📁</h3>
+<h3 align="center">📁 Study Repo</h3>
+
 <p align="center">
-  <a href="https://github.com/leesein1/cs-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=cs-&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  <a href="https://github.com/leesein1/cs-">
+    <img src="assets/cards/cs-study.svg" width="520"/>
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/leesein1/React-Study" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesein1&repo=React-Study&theme=default&border_color=dddddd&title_color=333333&text_color=555555" />
+  <a href="https://github.com/leesein1/React-Study">
+    <img src="assets/cards/react-study.svg" width="520"/>
   </a>
 </p>
 
@@ -102,4 +88,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leesein1&label=Profile%20views&color=0e75b6&style=flat" alt="leesein1" />
 </p>
->>>>>>> 6258b10754c91903b5febb3991ee1e9b8913ca69
