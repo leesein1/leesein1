@@ -12,12 +12,12 @@
   <animate attributeName="r" values="38;56;38" dur="4.5s" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0.07;0.18;0.07" dur="4.5s" repeatCount="indefinite"/>
 </circle>
-<text x="34" y="55" fill="#86efac" font-family="Arial, sans-serif" font-size="16" font-weight="700">AUTOMATION · SERVICE</text>
-<text x="34" y="98" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="800">Chungyak Manager</text>
-<text x="34" y="130" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Housing subscription monitoring and alerts</text>
-<text x="34" y="164" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">React · ASP.NET Core · Azure SQL · GitHub Actions</text>
+<text x="34" y="55" fill="#86efac" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16" font-weight="700">자동화 · 개인 서비스</text>
+<text x="34" y="98" fill="#f8fafc" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="34" font-weight="800">Chungyak Manager</text>
+<text x="34" y="130" fill="#cbd5e1" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16">청약 공고 수집 · 변경 감지 · 마감 · 알림 자동화</text>
+<text x="34" y="164" fill="#94a3b8" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="14">React · ASP.NET Core · Azure SQL · GitHub Actions</text>
 <rect x="34" y="184" width="155" height="4" rx="2" fill="#4ade80">
   <animate attributeName="width" values="60;230;60" dur="5.5s" repeatCount="indefinite"/>
 </rect>
-<text x="505" y="196" fill="#64748b" font-family="Arial, sans-serif" font-size="12">SYNC · ALERT</text>
+<text x="505" y="196" fill="#64748b" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="12">수집 · 감지 · 알림</text>
 </svg>
