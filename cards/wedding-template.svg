@@ -2,10 +2,10 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#171827"/><stop offset="50%" stop-color="#34243c"/><stop offset="100%" stop-color="#44263f"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="18s" repeatCount="indefinite"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="12"/></filter></defs>
 <rect x="1" y="1" width="638" height="218" rx="22" fill="url(#bg)" stroke="#c084fc" stroke-opacity=".28"/>
 <circle cx="565" cy="48" r="43" fill="#c084fc" opacity=".12" filter="url(#glow)"><animate attributeName="r" values="37;55;37" dur="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".07;.18;.07" dur="5.5s" repeatCount="indefinite"/></circle>
-<text x="34" y="55" fill="#d8b4fe" font-family="Arial, sans-serif" font-size="16" font-weight="700">WEB · EXPERIENCE</text>
-<text x="34" y="98" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="800">Wedding Template</text>
-<text x="34" y="130" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Mobile wedding invitation experience</text>
-<text x="34" y="164" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">React · TypeScript · Vite · Kakao Map</text>
+<text x="34" y="55" fill="#d8b4fe" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16" font-weight="700">웹 · 모바일 경험</text>
+<text x="34" y="98" fill="#f8fafc" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="34" font-weight="800">Wedding Template</text>
+<text x="34" y="130" fill="#cbd5e1" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16">실제 사용을 위한 모바일 청첩장</text>
+<text x="34" y="164" fill="#94a3b8" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="14">React · TypeScript · Vite · Kakao Map</text>
 <rect x="34" y="184" width="150" height="4" rx="2" fill="#c084fc"><animate attributeName="width" values="60;225;60" dur="6.5s" repeatCount="indefinite"/></rect>
-<text x="505" y="196" fill="#64748b" font-family="Arial, sans-serif" font-size="12">MOBILE FIRST</text>
+<text x="505" y="196" fill="#64748b" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="12">모바일 중심</text>
 </svg>
