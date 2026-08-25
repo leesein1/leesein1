@@ -2,10 +2,10 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="50%" stop-color="#2e2a18"/><stop offset="100%" stop-color="#49341a"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="16s" repeatCount="indefinite"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="12"/></filter></defs>
 <rect x="1" y="1" width="638" height="218" rx="22" fill="url(#bg)" stroke="#f59e0b" stroke-opacity=".28"/>
 <circle cx="565" cy="48" r="43" fill="#f59e0b" opacity=".12" filter="url(#glow)"><animate attributeName="r" values="37;55;37" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".07;.18;.07" dur="5s" repeatCount="indefinite"/></circle>
-<text x="34" y="55" fill="#fcd34d" font-family="Arial, sans-serif" font-size="16" font-weight="700">DESKTOP · AUTOMATION</text>
-<text x="34" y="98" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="800">Monthly Excel</text>
-<text x="34" y="130" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Business workflow automation tool</text>
-<text x="34" y="164" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">.NET 8 · WinForms · Selenium · ClosedXML</text>
+<text x="34" y="55" fill="#fcd34d" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16" font-weight="700">데스크톱 · 업무 자동화</text>
+<text x="34" y="98" fill="#f8fafc" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="34" font-weight="800">Monthly Excel</text>
+<text x="34" y="130" fill="#cbd5e1" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="16">반복적인 Excel · 웹 업무 자동화 도구</text>
+<text x="34" y="164" fill="#94a3b8" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="14">.NET 8 · WinForms · Selenium · ClosedXML</text>
 <rect x="34" y="184" width="145" height="4" rx="2" fill="#f59e0b"><animate attributeName="width" values="55;220;55" dur="6s" repeatCount="indefinite"/></rect>
-<text x="503" y="196" fill="#64748b" font-family="Arial, sans-serif" font-size="12">REAL WORKFLOW</text>
+<text x="503" y="196" fill="#64748b" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="12">실제 업무 적용</text>
 </svg>
