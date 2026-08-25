@@ -81,7 +81,7 @@
 
 ## 🔧 Technologies & Tools
 
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-dotnet.svg" alt="C# / .NET" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-java.svg" alt="Java" />
