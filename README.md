@@ -38,15 +38,25 @@
 </tr>
 </table>
 
-<sub>
-FaultMon renewal: [Frontend](https://github.com/leesein1/FaultMon-Front) · [Backend](https://github.com/leesein1/08.SeinServices.Api) · [Legacy V1](https://github.com/leesein1/FaultMon)  
-Chungyak Manager: [Frontend](https://github.com/leesein1/chungyak_manage_web) · [Backend](https://github.com/leesein1/08.SeinServices.Api)
-</sub>
+<div align="center">
+
+### Project Links
+
+<a href="https://github.com/leesein1/FaultMon-Front"><img src="https://img.shields.io/badge/FaultMon_Front-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/leesein1/08.SeinServices.Api"><img src="https://img.shields.io/badge/SeinServices.Api-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+<a href="https://github.com/leesein1/FaultMon"><img src="https://img.shields.io/badge/FaultMon_Legacy-374151?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+<a href="https://github.com/leesein1/chungyak_manage_web"><img src="https://img.shields.io/badge/Chungyak_Manager-22C55E?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://github.com/leesein1/Monthly_Excel"><img src="https://img.shields.io/badge/Monthly_Excel-F59E0B?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
+<a href="https://github.com/leesein1/wedding-template"><img src="https://img.shields.io/badge/Wedding_Template-A855F7?style=for-the-badge&logo=react&logoColor=white" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-[Portfolio](https://leesein1.github.io) · [GitHub](https://github.com/leesein1)
+<a href="https://leesein1.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="https://github.com/leesein1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
