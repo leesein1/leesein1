@@ -1,0 +1,24 @@
+<svg width="640" height="220" viewBox="0 0 640 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0f172a"/>
+    <stop offset="50%" stop-color="#13263d"/>
+    <stop offset="100%" stop-color="#0b3b4b"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="12s" repeatCount="indefinite"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect x="1" y="1" width="638" height="218" rx="22" fill="url(#bg)" stroke="#38bdf8" stroke-opacity=".28"/>
+<circle cx="560" cy="44" r="46" fill="#22d3ee" opacity=".13" filter="url(#glow)">
+  <animate attributeName="r" values="40;58;40" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".08;.2;.08" dur="4s" repeatCount="indefinite"/>
+</circle>
+<text x="34" y="55" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="16" font-weight="700">FEATURED · RENEWAL</text>
+<text x="34" y="98" fill="#f8fafc" font-family="Arial, sans-serif" font-size="34" font-weight="800">FaultMon</text>
+<text x="34" y="130" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="16">Real-time vehicle fault monitoring</text>
+<text x="34" y="164" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">React · ASP.NET Core · SignalR · MSSQL</text>
+<rect x="34" y="184" width="180" height="4" rx="2" fill="#22d3ee">
+  <animate attributeName="width" values="70;250;70" dur="5s" repeatCount="indefinite"/>
+</rect>
+<text x="512" y="196" fill="#64748b" font-family="Arial, sans-serif" font-size="12">V1 → V2</text>
+</svg>
