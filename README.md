@@ -40,12 +40,42 @@
 
 ### Project Summary
 
-| Project | Summary | Tech | Links |
-|---|---|---|---|
-| **🚗 FaultMon** | 실무에서 경험한 차량 고장 관제 시스템을 개인 프로젝트로 재구현하고, 기존 .NET MVC 통합 구조를 React + ASP.NET Core API 구조로 리뉴얼 | `React` `ASP.NET Core` `SignalR` `MSSQL` | [Front](https://github.com/leesein1/FaultMon-Front) · [API](https://github.com/leesein1/08.SeinServices.Api) · [V1](https://github.com/leesein1/FaultMon) |
-| **🏡 Chungyak Manager** | 청약 공고 수집·동기화·변경 감지·마감·알림을 자동화한 개인 서비스 | `React` `ASP.NET Core` `Azure SQL` `GitHub Actions` | [Front](https://github.com/leesein1/chungyak_manage_web) · [API](https://github.com/leesein1/08.SeinServices.Api) |
-| **⚙️ Monthly Excel** | 반복적인 Excel·웹 업무를 줄이기 위해 제작하고 실제 사용 흐름에 맞춰 확장한 WinForms 자동화 프로그램 | `.NET 8` `WinForms` `Selenium` `ClosedXML` | [Repo](https://github.com/leesein1/Monthly_Excel) |
-| **💍 Wedding Template** | 실제 사용을 목적으로 제작한 모바일 청첩장으로, 갤러리·지도·카운트다운 등 모바일 UX 기능 구현 | `React` `TypeScript` `Vite` `Kakao Map` | [Repo](https://github.com/leesein1/wedding-template) |
+<table>
+<thead>
+<tr>
+<th width="18%" align="center">Project</th>
+<th width="43%" align="center">Summary</th>
+<th width="27%" align="center">Tech</th>
+<th width="12%" align="center">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle"><b>🚗 FaultMon</b></td>
+<td valign="middle">실무 경험을 바탕으로 차량 고장 관제 시스템을 재구현<br/>기존 .NET MVC 통합 구조를 <b>React + ASP.NET Core API</b>로 리뉴얼</td>
+<td align="center" valign="middle"><code>React</code> <code>ASP.NET Core</code><br/><code>SignalR</code> <code>MSSQL</code></td>
+<td align="center" valign="middle"><a href="https://github.com/leesein1/FaultMon-Front">Front</a><br/><a href="https://github.com/leesein1/08.SeinServices.Api">API</a> · <a href="https://github.com/leesein1/FaultMon">V1</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>🏡 Chungyak<br/>Manager</b></td>
+<td valign="middle">청약 공고 수집·동기화와 변경 감지를 자동화<br/>마감 처리부터 알림까지 이어지는 개인 서비스</td>
+<td align="center" valign="middle"><code>React</code> <code>ASP.NET Core</code><br/><code>Azure SQL</code> <code>GitHub Actions</code></td>
+<td align="center" valign="middle"><a href="https://github.com/leesein1/chungyak_manage_web">Front</a><br/><a href="https://github.com/leesein1/08.SeinServices.Api">API</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>⚙️ Monthly Excel</b></td>
+<td valign="middle">반복적인 Excel·웹 업무를 줄이기 위한 자동화 프로그램<br/>실제 사용 흐름에 맞춰 기능과 배포 구조를 지속 확장</td>
+<td align="center" valign="middle"><code>.NET 8</code> <code>WinForms</code><br/><code>Selenium</code> <code>ClosedXML</code></td>
+<td align="center" valign="middle"><a href="https://github.com/leesein1/Monthly_Excel">Repo</a></td>
+</tr>
+<tr>
+<td align="center" valign="middle"><b>💍 Wedding<br/>Template</b></td>
+<td valign="middle">실제 사용을 목적으로 제작한 모바일 청첩장<br/>갤러리·지도·카운트다운 등 모바일 UX 중심 기능 구현</td>
+<td align="center" valign="middle"><code>React</code> <code>TypeScript</code><br/><code>Vite</code> <code>Kakao Map</code></td>
+<td align="center" valign="middle"><a href="https://github.com/leesein1/wedding-template">Repo</a></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
