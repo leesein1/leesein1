@@ -49,15 +49,25 @@
 
 ---
 
-## Tech & Tools
+## 🔧 Technologies & Tools
 
-| Area | Stack |
-|---|---|
-| **Backend** | `C#` `ASP.NET Core` `Java` `Classic ASP` `SignalR` |
-| **Frontend** | `JavaScript` `TypeScript` `React` `HTML` `CSS` |
-| **Database** | `MSSQL` `Oracle` |
-| **Infra / DevOps** | `Docker` `Azure` `GitHub Actions` `IIS` |
-| **Tools** | `Visual Studio` `VS Code` `Git` `GitHub` `SVN` |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-dotnet.svg" alt="C# / .NET" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-java.svg" alt="Java" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/web-react.svg" alt="React" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/web-typescript.svg" alt="TypeScript" />
+<br/>
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/data-mssql.svg" alt="MSSQL" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/data-oracle.svg" alt="Oracle" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-docker.svg" alt="Docker" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-azure.svg" alt="Azure" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-actions.svg" alt="GitHub Actions" />
+<br/>
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/tools-git.svg" alt="Git" />
+<img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/tools-vs.svg" alt="Visual Studio / VS Code" />
+
+</div>
 
 ---
 
@@ -65,5 +75,7 @@
 
 <a href="https://leesein1.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://github.com/leesein1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b6b6b,50:2b2b2b,100:000000&height=110&section=footer)
 
 </div>
