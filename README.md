@@ -20,7 +20,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/leesein1/chungyak_manage_web">
-  <img width="100%" src="https://raw.githubusercontent.com/leesein1/leesein1/main/cards/chungyak.svg" alt="Chungyak Manager" />
+  <img width="100%" src="https://raw.githubusercontent.com/leesein1/leesein1/main/cards/chungyak-v2.svg" alt="Chungyak Manager" />
 </a>
 </td>
 </tr>
