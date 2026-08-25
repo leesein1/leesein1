@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Build+things+that+solve+real+problems.;Automate+repetitive+work.;Refactor+into+better+structures.;Keep+shipping." alt="Typing SVG" />
 
-실제 업무와 생활에서 생기는 불편을 코드로 줄이고,  
-필요하면 기존 구조를 다시 설계해 더 나은 방식으로 개선합니다.
-
 </div>
 
 ## Featured Projects
@@ -83,17 +80,24 @@
 
 <div align="left">
 
+**Back-End**  
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-dotnet.svg" alt="C# / .NET" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/core-java.svg" alt="Java" />
+
+**Front-End**  
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/web-react.svg" alt="React" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/web-typescript.svg" alt="TypeScript" />
-<br/>
+
+**Database**  
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/data-mssql.svg" alt="MSSQL" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/data-oracle.svg" alt="Oracle" />
+
+**Infra & DevOps**  
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-docker.svg" alt="Docker" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-azure.svg" alt="Azure" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/infra-actions.svg" alt="GitHub Actions" />
-<br/>
+
+**Tools**  
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/tools-git.svg" alt="Git" />
 <img src="https://raw.githubusercontent.com/leesein1/leesein1/main/badges/tools-vs.svg" alt="Visual Studio / VS Code" />
 
