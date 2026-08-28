@@ -47,19 +47,19 @@
 <tbody>
 <tr>
 <td align="center" valign="middle"><b>FaultMon</b></td>
-<td valign="middle">차량 고장 관제 시스템 재구현<br/>.NET MVC 구조에서 React + ASP.NET Core API 구조로 분리</td>
+<td valign="middle">실무에서 접한 차량 고장 관제 시스템을 개인적으로 재구현<br/>V1 MVC 구조를 React + ASP.NET Core API로 분리</td>
 <td align="center" valign="middle"><code>React</code> <code>ASP.NET Core</code><br/><code>SignalR</code> <code>MSSQL</code></td>
 <td align="center" valign="middle"><a href="https://github.com/leesein1/FaultMon-Front">Front</a><br/><a href="https://github.com/leesein1/08.SeinServices.Api">API</a> · <a href="https://github.com/leesein1/FaultMon">V1</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><b>Chungyak<br/>Manager</b></td>
-<td valign="middle">청약 공고 수집·동기화, 검색, 마감 처리, 알림을 자동화한 개인 서비스</td>
+<td valign="middle">청약 공고 수집·검색·마감·알림을 자동화한 개인 서비스<br/>실제 집을 구하는 과정에서 직접 사용</td>
 <td align="center" valign="middle"><code>React</code> <code>ASP.NET Core</code><br/><code>Azure SQL</code> <code>Docker</code></td>
 <td align="center" valign="middle"><a href="https://github.com/leesein1/chungyak_manage_web">Front</a><br/><a href="https://github.com/leesein1/08.SeinServices.Api">API</a></td>
 </tr>
 <tr>
 <td align="center" valign="middle"><b>Monthly Excel</b></td>
-<td valign="middle">네이버 카페 조회와 Excel 정리를 시작으로 기능을 확장한 WinForms 업무 자동화 프로그램</td>
+<td valign="middle">네이버 카페 조회와 Excel 정리에서 시작한 WinForms 업무 자동화 프로그램<br/>실제 사용자 요청에 맞춰 기능과 배포 방식을 확장</td>
 <td align="center" valign="middle"><code>.NET 8</code> <code>WinForms</code><br/><code>Selenium</code> <code>ClosedXML</code></td>
 <td align="center" valign="middle"><a href="https://github.com/leesein1/Monthly_Excel">Repo</a></td>
 </tr>
